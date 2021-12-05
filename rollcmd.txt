@@ -1,1 +1,0 @@
-Start-Process PowerShell.exe -ArgumentList "-noexit", ".\roll.ps1"
